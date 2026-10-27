@@ -1,0 +1,26 @@
+[
+ {
+  "id": "nave",
+  "name": "The Nave"
+ },
+ {
+  "id": "our-lady",
+  "name": "Our Lady"
+ },
+ {
+  "id": "bethlehem",
+  "name": "Star of Bethlehem"
+ },
+ {
+  "id": "rose-window",
+  "name": "Rose Window"
+ },
+ {
+  "id": "paschal-dawn",
+  "name": "Paschal Dawn"
+ },
+ {
+  "id": "candlelight",
+  "name": "Candlelight"
+ }
+]

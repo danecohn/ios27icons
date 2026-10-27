@@ -1,0 +1,962 @@
+[
+ {
+  "id": "phone",
+  "name": "Phone",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "messages",
+  "name": "Messages",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "facetime",
+  "name": "FaceTime",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "mail",
+  "name": "Mail",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "safari",
+  "name": "Safari",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "maps",
+  "name": "Maps",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "photos",
+  "name": "Photos",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "camera",
+  "name": "Camera",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "music",
+  "name": "Music",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "podcasts",
+  "name": "Podcasts",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "tv",
+  "name": "TV",
+  "group": "apple",
+  "bg": "wine"
+ },
+ {
+  "id": "books",
+  "name": "Books",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "news",
+  "name": "News",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "stocks",
+  "name": "Stocks",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "weather",
+  "name": "Weather",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "clock",
+  "name": "Clock",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "calendar",
+  "name": "Calendar",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "notes",
+  "name": "Notes",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "reminders",
+  "name": "Reminders",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "freeform",
+  "name": "Freeform",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "files",
+  "name": "Files",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "wallet",
+  "name": "Wallet",
+  "group": "apple",
+  "bg": "wine"
+ },
+ {
+  "id": "health",
+  "name": "Health",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "fitness",
+  "name": "Fitness",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "home",
+  "name": "Home",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "shortcuts",
+  "name": "Shortcuts",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "settings",
+  "name": "Settings",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "calculator",
+  "name": "Calculator",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "compass",
+  "name": "Compass",
+  "group": "apple",
+  "bg": "wine"
+ },
+ {
+  "id": "measure",
+  "name": "Measure",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "magnifier",
+  "name": "Magnifier",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "voicememos",
+  "name": "Voice Memos",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "translate",
+  "name": "Translate",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "contacts",
+  "name": "Contacts",
+  "group": "apple",
+  "bg": "wine"
+ },
+ {
+  "id": "findmy",
+  "name": "Find My",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "appstore",
+  "name": "App Store",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "watch",
+  "name": "Watch",
+  "group": "apple",
+  "bg": "wine"
+ },
+ {
+  "id": "tips",
+  "name": "Tips",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "journal",
+  "name": "Journal",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "passwords",
+  "name": "Passwords",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "keynote",
+  "name": "Keynote",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "pages",
+  "name": "Pages",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "numbers",
+  "name": "Numbers",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "gamecenter",
+  "name": "Game Center",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "games",
+  "name": "Games",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "applestore",
+  "name": "Apple Store",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "support",
+  "name": "Support",
+  "group": "apple",
+  "bg": "wine"
+ },
+ {
+  "id": "siri",
+  "name": "Siri",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "invites",
+  "name": "Invites",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "sports",
+  "name": "Sports",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "testflight",
+  "name": "TestFlight",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "swiftplay",
+  "name": "Swift Playgrounds",
+  "group": "apple",
+  "bg": "wine"
+ },
+ {
+  "id": "developer",
+  "name": "Developer",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
+  "id": "classical",
+  "name": "Music Classical",
+  "group": "apple",
+  "bg": "wine"
+ },
+ {
+  "id": "instagram",
+  "name": "Instagram",
+  "group": "apps",
+  "bg": "magenta"
+ },
+ {
+  "id": "facebook",
+  "name": "Facebook",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "whatsapp",
+  "name": "WhatsApp",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "x",
+  "name": "X",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "threads",
+  "name": "Threads",
+  "group": "apps",
+  "bg": "wine"
+ },
+ {
+  "id": "tiktok",
+  "name": "TikTok",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "snapchat",
+  "name": "Snapchat",
+  "group": "apps",
+  "bg": "blush"
+ },
+ {
+  "id": "youtube",
+  "name": "YouTube",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "netflix",
+  "name": "Netflix",
+  "group": "apps",
+  "bg": "wine"
+ },
+ {
+  "id": "spotify",
+  "name": "Spotify",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "discord",
+  "name": "Discord",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "reddit",
+  "name": "Reddit",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "telegram",
+  "name": "Telegram",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "signal",
+  "name": "Signal",
+  "group": "apps",
+  "bg": "magenta"
+ },
+ {
+  "id": "linkedin",
+  "name": "LinkedIn",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "pinterest",
+  "name": "Pinterest",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "twitch",
+  "name": "Twitch",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "gmail",
+  "name": "Gmail",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "chrome",
+  "name": "Chrome",
+  "group": "apps",
+  "bg": "magenta"
+ },
+ {
+  "id": "drive",
+  "name": "Google Drive",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "google",
+  "name": "Google",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "amazon",
+  "name": "Amazon",
+  "group": "apps",
+  "bg": "wine"
+ },
+ {
+  "id": "uber",
+  "name": "Uber",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "lyft",
+  "name": "Lyft",
+  "group": "apps",
+  "bg": "magenta"
+ },
+ {
+  "id": "airbnb",
+  "name": "Airbnb",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "paypal",
+  "name": "PayPal",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "venmo",
+  "name": "Venmo",
+  "group": "apps",
+  "bg": "magenta"
+ },
+ {
+  "id": "cashapp",
+  "name": "Cash App",
+  "group": "apps",
+  "bg": "wine"
+ },
+ {
+  "id": "slack",
+  "name": "Slack",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "zoom",
+  "name": "Zoom",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "teams",
+  "name": "Teams",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "outlook",
+  "name": "Outlook",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "dropbox",
+  "name": "Dropbox",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "notion",
+  "name": "Notion",
+  "group": "apps",
+  "bg": "wine"
+ },
+ {
+  "id": "duolingo",
+  "name": "Duolingo",
+  "group": "apps",
+  "bg": "magenta"
+ },
+ {
+  "id": "shazam",
+  "name": "Shazam",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "bluesky",
+  "name": "Bluesky",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "mastodon",
+  "name": "Mastodon",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "steam",
+  "name": "Steam",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "roblox",
+  "name": "Roblox",
+  "group": "apps",
+  "bg": "wine"
+ },
+ {
+  "id": "github",
+  "name": "GitHub",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "chatgpt",
+  "name": "ChatGPT",
+  "group": "apps",
+  "bg": "wine"
+ },
+ {
+  "id": "claude",
+  "name": "Claude",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "gemini",
+  "name": "Gemini",
+  "group": "apps",
+  "bg": "magenta"
+ },
+ {
+  "id": "disney",
+  "name": "Disney+",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "hulu",
+  "name": "Hulu",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "max",
+  "name": "Max",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "primevideo",
+  "name": "Prime Video",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "tinder",
+  "name": "Tinder",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "bumble",
+  "name": "Bumble",
+  "group": "apps",
+  "bg": "wine"
+ },
+ {
+  "id": "doordash",
+  "name": "DoorDash",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "messenger",
+  "name": "Messenger",
+  "group": "apps",
+  "bg": "magenta"
+ },
+ {
+  "id": "gphotos",
+  "name": "Google Photos",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "maps2",
+  "name": "Google Maps",
+  "group": "apps",
+  "bg": "deep"
+ },
+ {
+  "id": "strava",
+  "name": "Strava",
+  "group": "apps",
+  "bg": "rose"
+ },
+ {
+  "id": "capcut",
+  "name": "CapCut",
+  "group": "apps",
+  "bg": "plum"
+ },
+ {
+  "id": "vigiltech",
+  "name": "VigilTech",
+  "group": "vigiltech",
+  "bg": "rose"
+ },
+ {
+  "id": "drive",
+  "name": "Vigil Drive",
+  "group": "vigiltech",
+  "bg": "plum"
+ },
+ {
+  "id": "social",
+  "name": "Vigil Social",
+  "group": "vigiltech",
+  "bg": "magenta"
+ },
+ {
+  "id": "lookout",
+  "name": "Vigil Lookout",
+  "group": "vigiltech",
+  "bg": "wine"
+ },
+ {
+  "id": "mail",
+  "name": "Vigil Mail",
+  "group": "vigiltech",
+  "bg": "rose"
+ },
+ {
+  "id": "calendar",
+  "name": "Vigil Calendar",
+  "group": "vigiltech",
+  "bg": "deep"
+ },
+ {
+  "id": "producer",
+  "name": "Game Producer",
+  "group": "vigiltech",
+  "bg": "magenta"
+ },
+ {
+  "id": "engine",
+  "name": "Vigil Engine",
+  "group": "vigiltech",
+  "bg": "plum"
+ },
+ {
+  "id": "render",
+  "name": "Vigil Render",
+  "group": "vigiltech",
+  "bg": "deep"
+ },
+ {
+  "id": "sprite",
+  "name": "Vigil Sprite",
+  "group": "vigiltech",
+  "bg": "rose"
+ },
+ {
+  "id": "box",
+  "name": "Vigil Box",
+  "group": "vigiltech",
+  "bg": "wine"
+ },
+ {
+  "id": "assets",
+  "name": "Vigil Assets",
+  "group": "vigiltech",
+  "bg": "plum"
+ },
+ {
+  "id": "notes",
+  "name": "Vigil Notes",
+  "group": "vigiltech",
+  "bg": "rose"
+ },
+ {
+  "id": "give",
+  "name": "Vigil Give",
+  "group": "vigiltech",
+  "bg": "deep"
+ },
+ {
+  "id": "cross",
+  "name": "Cross",
+  "group": "faith",
+  "bg": "wine"
+ },
+ {
+  "id": "crucifix",
+  "name": "Crucifix",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "rosary",
+  "name": "Rosary",
+  "group": "faith",
+  "bg": "rose"
+ },
+ {
+  "id": "bible",
+  "name": "Bible",
+  "group": "faith",
+  "bg": "deep"
+ },
+ {
+  "id": "dove",
+  "name": "Holy Spirit",
+  "group": "faith",
+  "bg": "magenta"
+ },
+ {
+  "id": "fish",
+  "name": "Ichthys",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "chirho",
+  "name": "Chi Rho",
+  "group": "faith",
+  "bg": "wine"
+ },
+ {
+  "id": "ihs",
+  "name": "IHS",
+  "group": "faith",
+  "bg": "rose"
+ },
+ {
+  "id": "sacredheart",
+  "name": "Sacred Heart",
+  "group": "faith",
+  "bg": "deep"
+ },
+ {
+  "id": "church",
+  "name": "Church",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "monstrance",
+  "name": "Adoration",
+  "group": "faith",
+  "bg": "rose"
+ },
+ {
+  "id": "chalice",
+  "name": "Eucharist",
+  "group": "faith",
+  "bg": "wine"
+ },
+ {
+  "id": "candle",
+  "name": "Vigil Candle",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "rose",
+  "name": "Our Lady’s Rose",
+  "group": "faith",
+  "bg": "rose"
+ },
+ {
+  "id": "marian",
+  "name": "Marian",
+  "group": "faith",
+  "bg": "magenta"
+ },
+ {
+  "id": "angel",
+  "name": "Angel",
+  "group": "faith",
+  "bg": "magenta"
+ },
+ {
+  "id": "saint",
+  "name": "Saint",
+  "group": "faith",
+  "bg": "wine"
+ },
+ {
+  "id": "hands",
+  "name": "Prayer",
+  "group": "faith",
+  "bg": "deep"
+ },
+ {
+  "id": "mass",
+  "name": "Mass Times",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "confession",
+  "name": "Confession",
+  "group": "faith",
+  "bg": "wine"
+ },
+ {
+  "id": "readings",
+  "name": "Daily Readings",
+  "group": "faith",
+  "bg": "rose"
+ },
+ {
+  "id": "hours",
+  "name": "Liturgy of the Hours",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "stations",
+  "name": "Stations of the Cross",
+  "group": "faith",
+  "bg": "wine"
+ },
+ {
+  "id": "novena",
+  "name": "Novena",
+  "group": "faith",
+  "bg": "deep"
+ },
+ {
+  "id": "bell",
+  "name": "Angelus",
+  "group": "faith",
+  "bg": "rose"
+ },
+ {
+  "id": "pilgrim",
+  "name": "Pilgrim",
+  "group": "faith",
+  "bg": "magenta"
+ },
+ {
+  "id": "star",
+  "name": "Star of Bethlehem",
+  "group": "faith",
+  "bg": "rose"
+ },
+ {
+  "id": "resurrection",
+  "name": "Resurrection",
+  "group": "faith",
+  "bg": "magenta"
+ },
+ {
+  "id": "hope",
+  "name": "Anchor of Hope",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "thorns",
+  "name": "Crown of Thorns",
+  "group": "faith",
+  "bg": "wine"
+ },
+ {
+  "id": "rosewindow",
+  "name": "Rose Window",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "memento",
+  "name": "Memento Mori",
+  "group": "faith",
+  "bg": "deep"
+ },
+ {
+  "id": "sword",
+  "name": "Sword of the Spirit",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "compline",
+  "name": "Night Prayer",
+  "group": "faith",
+  "bg": "plum"
+ },
+ {
+  "id": "quill",
+  "name": "Scriptorium",
+  "group": "faith",
+  "bg": "deep"
+ },
+ {
+  "id": "blank",
+  "name": "Blank Rose",
+  "group": "faith",
+  "bg": "rose"
+ }
+]
