@@ -324,6 +324,30 @@
   "bg": "wine"
  },
  {
+  "id": "itunes",
+  "name": "iTunes Store",
+  "group": "apple",
+  "bg": "deep"
+ },
+ {
+  "id": "clips",
+  "name": "Clips",
+  "group": "apple",
+  "bg": "rose"
+ },
+ {
+  "id": "playground",
+  "name": "Image Playground",
+  "group": "apple",
+  "bg": "magenta"
+ },
+ {
+  "id": "preview",
+  "name": "Preview",
+  "group": "apple",
+  "bg": "plum"
+ },
+ {
   "id": "instagram",
   "name": "Instagram",
   "group": "apps",

@@ -1,6 +1,6 @@
 # VigilTech iOS 27 icon pack
 
-A full iOS 27 reskin in the VigilTech look: pink `#ff0058`, plum-black, candlelit, with a quiet gothic streak. **160 icons in two looks (Rose and Night = 320 images at 1024x1024), 6 wallpapers (1290x2796), 6 widget-cover styles in 3 sizes, 40 labelled covers and 32 covers with short Latin phrases.**
+A full iOS 27 reskin in the VigilTech look: pink `#ff0058`, plum-black, candlelit, with a quiet gothic streak. **164 icons in two looks (Rose and Night = 328 images at 1024x1024), 6 wallpapers (1290x2796), 6 widget-cover styles in 3 sizes, 40 labelled covers and 32 covers with short Latin phrases.**
 
 Everything here is free software under the **GNU GPL v3**.
 
@@ -9,7 +9,7 @@ Open `index.html` (serve the folder, for example `python3 -m http.server`, or tu
 
 | Folder | What |
 | --- | --- |
-| `icons/{rose,night}/apple/` | 54 native Apple apps: Phone, Messages, FaceTime, Mail, Safari, Maps, Photos, Camera, Music, Keynote, Pages, Numbers, Passwords, Journal, Wallet, Settings and the rest |
+| `icons/{rose,night}/apple/` | 58 native Apple apps: Phone, Messages, FaceTime, Mail, Safari, Maps, Photos, Camera, Music, Keynote, Pages, Numbers, Passwords, Journal, Wallet, Settings and the rest |
 | `icons/*/apps/` | 56 popular apps: Instagram, WhatsApp, TikTok, YouTube, Spotify, Discord, ChatGPT, Claude and more |
 | `icons/*/faith/` | 36 icons for faith apps: cross, crucifix, rosary, Bible, Sacred Heart, chalice, angel, Mass times, rose window and more. |
 | `icons/*/vigiltech/` | 14 VigilTech apps |
